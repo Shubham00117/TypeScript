@@ -1,0 +1,22 @@
+DAY 7 - LOOPING STATEMENTS
+
+Concepts Covered:
+- For loop: known iterations
+- While loop: condition checked first
+- Do-while loop: executes at least once
+- For...of loop: iterate arrays
+- For...in loop: iterate object keys
+- Array forEach: execute function for each element
+- Break: exit loop
+- Continue: skip current iteration
+
+Key Points:
+- For loop: for(init; condition; increment)
+- While checks condition before execution
+- Do-while checks condition after execution
+- For...of is preferred for arrays
+- For...in iterates object properties
+- Break stops entire loop
+- Continue skips to next iteration
+- Most used in automation: for...of, forEach
+

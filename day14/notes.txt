@@ -1,0 +1,34 @@
+DAY 14 - MODULES AND EXPORTS
+
+Concepts Covered:
+- Export keyword: export class/interface/function
+- Import keyword: import { } from "path"
+- Module structure
+- Exporting classes
+- Exporting interfaces
+- Exporting functions
+- Importing from different folders
+- Relative paths: ../, ./
+- Page Object Model structure
+- Test organization
+
+Key Points:
+- Export makes code available to other files
+- Import brings code from other files
+- Use relative paths for local imports
+- ../ goes up one folder level
+- ./ refers to current folder
+- Organize code into folders: models, pages, tests, utils
+- Models: data structures (interfaces)
+- Pages: page objects (classes)
+- Tests: test files
+- Utils: helper functions
+- Common pattern: Page Object Model with modules
+
+Files:
+- models/UserModel.ts: Data model interface
+- pages/AuthPage.ts: Authentication page class
+- pages/dashBoardPage.ts: Dashboard page class
+- tests/LoginTest.ts: Test file with imports
+- utils/TestHelper.ts: Utility functions
+

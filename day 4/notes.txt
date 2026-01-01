@@ -1,0 +1,23 @@
+DAY 4 - OPERATORS
+
+Concepts Covered:
+- Arithmetic: +, -, *, /, %
+- Assignment: =, +=, -=, *=, /=
+- Comparison: ==, ===, !=, <, >, <=, >=
+- Logical: &&, ||, !
+- Ternary: condition ? true : false
+- Type operators: typeof, instanceof
+- String concatenation: +
+- Optional chaining: ?.
+- Nullish coalescing: ??
+- Spread operator: ...
+- Increment/Decrement: ++, --
+
+Key Points:
+- == compares values, === compares value and type
+- && (AND), || (OR), ! (NOT)
+- Ternary is shorthand for if-else
+- Optional chaining prevents errors on undefined
+- Nullish coalescing provides default values
+- Spread operator copies arrays/objects
+

@@ -1,0 +1,27 @@
+DAY 11 - CLASSES AND OBJECTS
+
+Concepts Covered:
+- Class definition
+- Properties (variables in class)
+- Constructor (initialization)
+- Methods (functions in class)
+- Object creation: new ClassName()
+- Accessing methods: object.method()
+- Access modifiers: public, private, protected
+- Async methods in class
+- Page Object Model pattern
+
+Key Points:
+- Class is blueprint for objects
+- Constructor runs when object is created
+- Methods define class behavior
+- Public: accessible everywhere (default)
+- Private: accessible only in class
+- Protected: accessible in class and child classes
+- Page Object Model organizes page elements and actions
+- Most used in automation: classes for page objects
+
+Files:
+- class_object_method.ts: Basic class concepts
+- Employee.ts: Class with constructor and methods
+

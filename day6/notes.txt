@@ -1,0 +1,19 @@
+DAY 6 - CONDITIONAL STATEMENTS
+
+Concepts Covered:
+- If statement: single condition
+- If-else: two paths
+- If-else if-else: multiple conditions
+- Switch statement: multiple cases
+- Ternary operator: shorthand if-else
+- Nested if: conditions inside conditions
+
+Key Points:
+- If executes when condition is true
+- Else handles false condition
+- Switch checks one variable against many values
+- Break is required in switch cases
+- Default handles unmatched cases
+- Ternary: condition ? trueValue : falseValue
+- Nested if allows complex logic
+

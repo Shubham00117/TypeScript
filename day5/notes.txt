@@ -1,0 +1,23 @@
+DAY 5 - STRING METHODS
+
+Concepts Covered:
+- String properties: length
+- Case conversion: toUpperCase(), toLowerCase()
+- Search: includes(), indexOf()
+- Validation: startsWith(), endsWith()
+- Extraction: substring(), slice()
+- Replacement: replace()
+- Trimming: trim(), trimStart(), trimEnd()
+- Splitting: split()
+- Concatenation: concat(), +
+- Character access: charAt()
+- Template strings: `text ${variable}`
+
+Key Points:
+- String methods return new strings (strings are immutable)
+- indexOf returns -1 if not found
+- slice supports negative indices
+- split converts string to array
+- Template strings allow variable interpolation
+- Most common in automation: includes, trim, split
+

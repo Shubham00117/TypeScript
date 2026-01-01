@@ -1,0 +1,30 @@
+DAY 13 - INTERFACES
+
+Concepts Covered:
+- Interface definition
+- Interface implementation: implements keyword
+- Class implementing interface
+- Object implementing interface
+- Interface for type definition
+- Optional properties: property?
+- Readonly properties: readonly property
+- Interface extending interface: extends
+- Multiple classes implementing same interface
+- Polymorphism with interfaces
+
+Key Points:
+- Interface defines contract (structure)
+- Class must implement all interface methods
+- Interface can define object structure
+- Optional properties use ? after property name
+- Readonly prevents property modification
+- Interface can extend another interface
+- Multiple classes can implement same interface
+- Enables polymorphism and code consistency
+- Common use: data models, page contracts
+
+Files:
+- Interface.ts: Interface with classes
+- InterfaceDemo.ts: Interface with objects
+- InterfaceDemo2.ts: Interface extension
+

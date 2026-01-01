@@ -1,0 +1,21 @@
+DAY 9 - TUPLES
+
+Concepts Covered:
+- Tuple definition: fixed-length array with fixed types
+- Tuple assignment: must match type order
+- Accessing tuple values: tuple[index]
+- Modifying tuple values
+- Tuple in function return
+- Array of tuples
+- Optional element in tuple: type?
+- Readonly tuple: readonly [type, type]
+
+Key Points:
+- Tuple has fixed length and fixed types
+- Values must match type order exactly
+- Can modify values if type matches
+- Useful for returning multiple values from function
+- Optional element uses ? after type
+- Readonly prevents modification
+- Common use: API responses, coordinates
+

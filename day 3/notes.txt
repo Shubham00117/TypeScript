@@ -1,0 +1,20 @@
+DAY 3 - DATA TYPES
+
+Concepts Covered:
+- Basic types: string, number, boolean
+- Arrays: string[], Array<string>
+- Union types: number | string
+- Objects with type annotations
+- Any and Unknown types
+- Constants (const)
+- Function return types: void, never
+
+Key Points:
+- TypeScript provides type safety
+- Arrays can be declared with [] or Array<>
+- Union types allow multiple types
+- Any bypasses type checking (avoid when possible)
+- Unknown requires type checking before use
+- Void means function returns nothing
+- Never means function never returns (throws error)
+

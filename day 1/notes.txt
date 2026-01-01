@@ -1,0 +1,14 @@
+DAY 1 - BASIC FUNCTION
+
+Concepts Covered:
+- Function declaration with parameters
+- Function with return type
+- Function call and execution
+- Storing function result in variable
+
+Key Points:
+- Functions are reusable blocks of code
+- Parameters define input types
+- Return statement sends value back
+- Functions must be called to execute
+

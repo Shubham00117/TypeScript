@@ -1,0 +1,37 @@
+DAY 10 - FUNCTIONS
+
+Concepts Covered:
+- Normal function declaration
+- Anonymous function
+- Arrow function syntax: () => {}
+- Arrow function with parameters
+- Arrow function single line (implicit return)
+- Function with return type
+- Void function (no return)
+- Optional parameter: parameter?
+- Default parameter: parameter = value
+- Function returning boolean, object, array
+- Function overloading
+- Rest parameters: ...args
+- Async function: async/await
+- Promise return type
+- Callback function
+- Function type definition
+
+Key Points:
+- Arrow functions are concise: () => {}
+- Single line arrow functions have implicit return
+- Optional parameters use ? after parameter name
+- Default parameters use = value
+- Function overloading allows multiple signatures
+- Rest parameters accept multiple arguments
+- Async functions return Promise
+- Most used in automation: arrow functions, async functions
+
+Files:
+- Arrow.ts: Arrow function examples
+- function_basic.ts: Basic function types
+- function_part2.ts: Advanced function concepts
+- functions_part1.ts: Function parameters and return types
+- RestPramas.ts: Rest parameters example
+

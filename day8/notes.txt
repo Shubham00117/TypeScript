@@ -1,0 +1,26 @@
+DAY 8 - ARRAYS
+
+Concepts Covered:
+- Array declaration: type[] or Array<type>
+- Accessing elements: array[index]
+- Array length property
+- Adding: push(), unshift()
+- Removing: pop(), shift()
+- Updating: array[index] = value
+- Iteration: for loop, for...of
+- Methods: includes(), indexOf(), join(), slice(), splice()
+- Map: transform elements
+- Filter: filter elements
+- Reduce: reduce to single value
+- Multi-dimensional arrays
+
+Key Points:
+- Arrays are zero-indexed
+- push adds at end, unshift adds at start
+- pop removes from end, shift removes from start
+- slice extracts, splice modifies
+- Map creates new array with transformed values
+- Filter creates new array with filtered values
+- Reduce accumulates to single value
+- Most used: push, forEach, map, filter
+

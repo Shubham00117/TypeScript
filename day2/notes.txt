@@ -1,0 +1,19 @@
+DAY 2 - VARIABLES: VAR, LET, CONST
+
+Concepts Covered:
+- VAR: Function-scoped, allows redeclaration
+- LET: Block-scoped, allows reassignment
+- CONST: Block-scoped, no reassignment
+- Scope differences between var, let, const
+- Object mutation with const
+
+Key Points:
+- VAR is function-scoped (accessible throughout function)
+- LET is block-scoped (accessible only in block)
+- CONST prevents reassignment but allows object property changes
+- Prefer LET and CONST over VAR in modern TypeScript
+
+Files:
+- var_let_const.ts: Basic variable declarations
+- typeOfVariable.ts: Variable scope examples
+

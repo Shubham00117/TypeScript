@@ -1,0 +1,22 @@
+DAY 12 - INHERITANCE AND METHOD OVERRIDING
+
+Concepts Covered:
+- Class inheritance: extends keyword
+- Parent class (base class)
+- Child class (derived class)
+- Super keyword: call parent constructor/method
+- Method overriding: override keyword
+- Protected access modifier
+- Multiple child classes from one parent
+- Polymorphism
+
+Key Points:
+- Inheritance allows code reuse
+- Child class inherits parent properties and methods
+- Super() calls parent constructor
+- Override keyword replaces parent method
+- Protected allows child class access
+- One parent can have multiple children
+- Polymorphism: same interface, different implementations
+- Common pattern: BasePage with child page classes
+
